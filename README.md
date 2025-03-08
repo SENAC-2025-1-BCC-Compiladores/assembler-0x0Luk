@@ -1,2 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FLG6_3H5)
-Coloque seu nome completo aqui!
+# Lucas Gonçalo de Morais
+
+Para compilar o projeto:
+   ```sh
+   gcc -o assembler main.c lexer.c parser.c -Wall
+   
+   ```
+   
+Uso:
+   ```sh
+   ./assembler {arquivo de entrada} {arquivo de saida}
+   ```
+
+Exemplo:
+   ```sh
+   ./assembler codigoteste.txt resultado.mem
+   ```
