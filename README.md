@@ -13,5 +13,5 @@ Uso:
 
 Exemplo:
    ```sh
-   ./assembler codigoteste.txt resultado.mem
+   ./assembler codigo_teste.txt resultado.mem
    ```
